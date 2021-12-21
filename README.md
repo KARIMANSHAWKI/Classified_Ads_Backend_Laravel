@@ -17,6 +17,9 @@ The following tools are required in order to start the installation.
 3. Set up a local database called `laravel`
 4. Run php artisan migrate
 
+## API Documentation
+https://documenter.getpostman.com/view/15241626/UVRBn6Fm
+
 
 ## Commands
 
